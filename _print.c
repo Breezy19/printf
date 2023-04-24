@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * print_buffer - Prints the contents of the buffer if it exist
