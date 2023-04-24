@@ -1,4 +1,4 @@
-# ALX-SWE Programme GROUP PROJECT [0x11. C - printf]
+# ALX-SE Programme GROUP PROJECT [0x11. C - printf]
 
 # Tasks
 
